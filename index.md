@@ -1,18 +1,30 @@
 # FNU Vanshika
-### Aspiring Business & Tech Professional
+### Student | Future Business & Tech Professional
+
+Welcome to my personal portfolio website.
+
+---
 
 ## About Me
-I am FNU Vanshika, a student passionate about business, technology, and entrepreneurship. I enjoy developing new skills and growing professionally.
+I am FNU Vanshika, a motivated student who is passionate about business, technology, and entrepreneurship. I enjoy learning, improving my skills, and exploring opportunities that help me grow both personally and professionally.
+
+---
 
 ## Skills
-- Basic HTML
-- Business Strategy
-- Communication
-- Social Media Marketing
+- Communication Skills
 - Problem Solving
+- Team Collaboration
+- Social Media Marketing
+- Business Strategy
+- Basic HTML
+
+---
+
 ## Projects
-**Personal Portfolio Website**  
-Created a personal website using HTML to showcase my skills and background.
+### Portfolio Website
+Developed a personal portfolio website using GitHub Pages as part of an academic assignment. This project highlights my profile, skills, and contact information in a professional format.
+
+---
 
 ## Contact
-Email: p25719@psu.edu
+**Email:** p25719@psu.edu
